@@ -6,6 +6,7 @@ export default function Header(){
     <header>
       <h2>Header da Pagina</h2><br/>
       <Link to="/contato" >Contatos</Link>
+      
     </header>
   )
 }
